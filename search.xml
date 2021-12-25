@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>test</title>
+    <url>//articles/test/</url>
+    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">temp = a</span><br><span class="line">a = b</span><br><span class="line">b = temp</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>雜文</category>
+      </categories>
+      <tags>
+        <tag>雜文</tag>
+      </tags>
+  </entry>
+</search>
