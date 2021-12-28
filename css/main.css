@@ -1855,10 +1855,6 @@ pre code {
   position: fixed;
   z-index: 30;
   right: 30px;
-  width: 24px;
-}
-.back-to-top span {
-  display: none;
 }
 @media (max-width: 991px) {
   .back-to-top {
@@ -3024,6 +3020,18 @@ mark.search-keyword {
   border-bottom: none;
   border-bottom: 1px solid #fc6423;
 }
+/* 
+.post-body p a{
+  color: #00c3ff; //超連結顏色(淺藍)
+  border-bottom: none;
+  border-bottom: 1px solid #00c3ff;
+  &:hover {
+    color: #0044ff; //滑鼠游標移到超連結上的顏色(深藍)
+    border-bottom: none;
+    border-bottom: 1px solid #0044ff;
+  }
+}
+*/
 .highlight-wrap[data-rel] {
   position: relative;
   overflow: hidden;
@@ -3078,4 +3086,18 @@ mark.search-keyword {
 /*去掉圖片邊框*/
 .posts-expand .post-body img {
   border: 0px;
+}
+body {
+  background: url("/images/bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.main-inner {
+  opacity: 0.95;
+}
+.header-inner,
+.sidebar-inner {
+  opacity: 0.9;
 }
