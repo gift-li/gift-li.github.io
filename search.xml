@@ -73,7 +73,94 @@
       </tags>
   </entry>
   <entry>
-    <title>power_and_politics</title>
+    <title>組織行為</title>
+    <url>//articles/group-behavior/</url>
+    <content><![CDATA[<h1 id="群體行為-Group-Behavior"><a href="#群體行為-Group-Behavior" class="headerlink" title="群體行為 Group Behavior"></a>群體行為 Group Behavior</h1><ul>
+<li>群體: 兩個以上的個體，彼此互相達到特定目標<ul>
+<li>  正式: 受團體架構(organization’s structure)規範</li>
+<li>  非正式: 非架構化/組織決定(策)</li>
+</ul>
+</li>
+<li>社會認同理論(Social identity theory)<ul>
+<li>定義: 對群體的成功失敗產生情緒反應<ul>
+<li>  因==自尊==和群體表現產生連結</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>同組織偏愛(Ingroup favoritism): 同組織較優，異組織一視同仁<ul>
+<li>  社會認同威脅(刻板印象): 助長同群體偏愛</li>
+</ul>
+</li>
+</ul>
+<h3 id="角色-Role"><a href="#角色-Role" class="headerlink" title="角色 Role"></a>角色 Role</h3><ul>
+<li>  角色認知(Perception): 自我認知==在特定情境中如何行動==</li>
+<li>角色期望(Expectations): 他人對我的角色認知<ul>
+<li>  心理共識(Psychological contract)</li>
+<li>  角色衝突(conflict): 角色認知的不同</li>
+</ul>
+</li>
+</ul>
+<h3 id="規範-Norms"><a href="#規範-Norms" class="headerlink" title="規範 Norms"></a>規範 Norms</h3><ul>
+<li>  定義: 群體成員認同/遵守的行為準則</li>
+</ul>
+<h3 id="地位-Status"><a href="#地位-Status" class="headerlink" title="地位 Status"></a>地位 Status</h3><ul>
+<li>  定義: 社會定義的地位或階級</li>
+<li>地位特性理論(status characteristics theory): 個人地位來源<ul>
+<li>  對他人的影響力</li>
+<li>  對群體群體目標的貢獻能力</li>
+<li>  個人人格特質</li>
+</ul>
+</li>
+</ul>
+<h3 id="規模-Size"><a href="#規模-Size" class="headerlink" title="規模 Size"></a>規模 Size</h3><ul>
+<li>小團體: 工作完成導向<ul>
+<li>  decision performing</li>
+<li>  action-taking tasks</li>
+</ul>
+</li>
+<li>大團體: 解決問題導向<ul>
+<li>  decision making</li>
+<li>  fact-finding tasks</li>
+</ul>
+</li>
+<li>  社會怠惰(social loafing): 多人工作量 &lt; 獨自工作量</li>
+</ul>
+<h3 id="多樣性-Diversity"><a href="#多樣性-Diversity" class="headerlink" title="多樣性 Diversity"></a>多樣性 Diversity</h3><ul>
+<li>定義: 群體成員相似/異處<ul>
+<li>  短期: 增加群體衝突</li>
+<li>  長期: 表現越好(開放態度、創意)</li>
+</ul>
+</li>
+</ul>
+<h3 id="群體決策-Group-decision-making"><a href="#群體決策-Group-decision-making" class="headerlink" title="群體決策(Group decision making)"></a>群體決策(Group decision making)</h3><ul>
+<li>  優點: 資訊較完整、觀點多樣</li>
+<li>  缺點: 少數服從多數、費時</li>
+<li>群體盲思(Groupthink)<ul>
+<li>  不敢提出不同想法: 傾向朝群體觀點一致</li>
+</ul>
+</li>
+<li>群體偏移(Groupshift)<ul>
+<li>  團體和個體決策的變化/偏移</li>
+</ul>
+</li>
+<li>霍桑效應(Hawthorne Effect)<ul>
+<li>  當觀察者察覺自己==被觀察==，會傾向改變自己的言行</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>筆記</category>
+        <category>組織行為</category>
+      </categories>
+      <tags>
+        <tag>組織行為</tag>
+        <tag>筆記</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>權力與政治</title>
     <url>//articles/power-and-politics/</url>
     <content><![CDATA[<h1 id="權力與政治-Power-and-Politics"><a href="#權力與政治-Power-and-Politics" class="headerlink" title="權力與政治 Power and Politics"></a>權力與政治 Power and Politics</h1><h3 id="權力-Power"><a href="#權力-Power" class="headerlink" title="權力 Power"></a>權力 Power</h3><ul>
 <li>A 影響 B 行為的能力<ul>
@@ -193,8 +280,8 @@
 </ul>
 ]]></content>
       <categories>
-        <category>組織行為</category>
         <category>筆記</category>
+        <category>組織行為</category>
       </categories>
       <tags>
         <tag>組織行為</tag>
@@ -208,11 +295,13 @@
 <li>  練習</li>
 </ul>
 <h2 id="版本-工具"><a href="#版本-工具" class="headerlink" title="版本 / 工具"></a>版本 / 工具</h2><ul>
-<li>套件版本  <div class="note info"><blockquote>
+<li>  套件版本</li>
+</ul>
+<div class="note info"><blockquote>
 <p>為精簡頁面，有刪減部分輸出內容</p>
 </blockquote>
-</div></li>
-</ul>
+</div>
+
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ php -v</span><br><span class="line">---</span><br><span class="line">PHP 7.4.21 (cli) (built: Jun 29 2021 18:06:27) ( ZTS Visual C++ 2017 x64 )</span><br><span class="line">Copyright (c) The PHP Group</span><br><span class="line">Zend Engine v3.4.0, Copyright (c) Zend Technologies</span><br><span class="line">---</span><br><span class="line">$ npm -v</span><br><span class="line">6.14.8</span><br><span class="line">---</span><br><span class="line">$ composer -v</span><br><span class="line">Composer version 2.0.8 2020-12-03 17:20:38</span><br><span class="line">---</span><br><span class="line">$ laravel -v</span><br><span class="line">Laravel Installer 4.0.0</span><br></pre></td></tr></table></figure>
 
 <ul>
@@ -231,6 +320,11 @@
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ laravel new NAME</span><br><span class="line">---</span><br><span class="line"># 如果要指定laravel版本的話，更改下方&#x27;*&#x27;的版本</span><br><span class="line">$ composer create-project laravel/laravel=* NAME --prefer-dist</span><br></pre></td></tr></table></figure>
 
 <ul>
+<li>  安裝 jetstream</li>
+</ul>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 使用composer安裝jestream</span><br><span class="line">$ composer require laravel/jetstream</span><br><span class="line"># 指定livewire安裝</span><br><span class="line">$ php artisan jetstream:install livewire</span><br><span class="line"># 使用npm安裝其他需要的套件</span><br><span class="line">$ npm install &amp;&amp; npm run dev</span><br></pre></td></tr></table></figure>
+
+<ul>
 <li>  安裝完可檢查是否能正常運作</li>
 </ul>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ php artisan serve</span><br></pre></td></tr></table></figure>
@@ -245,7 +339,7 @@
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ php artisan make:migration create_word_cards_table</span><br></pre></td></tr></table></figure>
 
 <h2 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h2><h3 id="Git-上傳"><a href="#Git-上傳" class="headerlink" title="Git 上傳"></a>Git 上傳</h3><blockquote>
-<p><branch_name>和<git url>請更換成自己專案的 resporitory 和 branch 名稱</p>
+<p><branch_name>和<git url>請更換成自己專案的 resporitory 和 branch 名稱</git></branch_name></p>
 </blockquote>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ git remote add &lt;branch_name&gt; &lt;git url&gt;</span><br><span class="line">$ git add .</span><br><span class="line">$ git commit -m &#x27;first commit&#x27;</span><br><span class="line">$ git push origin &lt;branch_name&gt;</span><br></pre></td></tr></table></figure>
 
@@ -263,90 +357,55 @@
       </tags>
   </entry>
   <entry>
-    <title>group_behavior</title>
-    <url>//articles/group-behavior/</url>
-    <content><![CDATA[<h1 id="群體行為-Group-Behavior"><a href="#群體行為-Group-Behavior" class="headerlink" title="群體行為 Group Behavior"></a>群體行為 Group Behavior</h1><ul>
-<li>群體: 兩個以上的個體，彼此互相達到特定目標<ul>
-<li>  正式: 受團體架構(organization’s structure)規範</li>
-<li>  非正式: 非架構化/組織決定(策)</li>
-</ul>
+    <title>Side Project:單字卡&lt;2&gt;</title>
+    <url>//articles/word-card-site-2/</url>
+    <content><![CDATA[<h2 id="網頁模板規劃"><a href="#網頁模板規劃" class="headerlink" title="網頁模板規劃"></a>網頁模板規劃</h2><ul>
+<li><p>新增檔案(./resources/views/)</p>
+<ul>
+<li><p>  基本模板: layouts/default.blade.php</p>
 </li>
-<li>社會認同理論(Social identity theory)<ul>
-<li>定義: 對群體的成功失敗產生情緒反應<ul>
-<li>  因==自尊==和群體表現產生連結</li>
-</ul>
+<li><p>  頂置: partials/navbar.blade.php</p>
 </li>
-</ul>
+<li><p>主體</p>
+<ul>
+<li><p>  左: partials/sidebar.blade.php</p>
 </li>
-<li>同組織偏愛(Ingroup favoritism): 同組織較優，異組織一視同仁<ul>
-<li>  社會認同威脅(刻板印象): 助長同群體偏愛</li>
-</ul>
-</li>
-</ul>
-<h3 id="角色-Role"><a href="#角色-Role" class="headerlink" title="角色 Role"></a>角色 Role</h3><ul>
-<li>  角色認知(Perception): 自我認知==在特定情境中如何行動==</li>
-<li>角色期望(Expectations): 他人對我的角色認知<ul>
-<li>  心理共識(Psychological contract)</li>
-<li>  角色衝突(conflict): 角色認知的不同</li>
+<li><p>右: 主要內容</p>
+<ul>
+<li>  本次簡易配置 card 模板: partials/card.blade.php</li>
 </ul>
 </li>
 </ul>
-<h3 id="規範-Norms"><a href="#規範-Norms" class="headerlink" title="規範 Norms"></a>規範 Norms</h3><ul>
-<li>  定義: 群體成員認同/遵守的行為準則</li>
-</ul>
-<h3 id="地位-Status"><a href="#地位-Status" class="headerlink" title="地位 Status"></a>地位 Status</h3><ul>
-<li>  定義: 社會定義的地位或階級</li>
-<li>地位特性理論(status characteristics theory): 個人地位來源<ul>
-<li>  對他人的影響力</li>
-<li>  對群體群體目標的貢獻能力</li>
-<li>  個人人格特質</li>
+</li>
+<li><p>  底置: partials/footer.blad.php</p>
+</li>
 </ul>
 </li>
 </ul>
-<h3 id="規模-Size"><a href="#規模-Size" class="headerlink" title="規模 Size"></a>規模 Size</h3><ul>
-<li>小團體: 工作完成導向<ul>
-<li>  decision performing</li>
-<li>  action-taking tasks</li>
+<h2 id="模板網站建立"><a href="#模板網站建立" class="headerlink" title="模板網站建立"></a>模板網站建立</h2><ul>
+<li>  網址: ./word_card</li>
 </ul>
+<p><img src="/articles/word-card-site-2/word-card-site-2/word_card_index.jpeg"></p>
+<h2 id="參考網站"><a href="#參考網站" class="headerlink" title="參考網站"></a>參考網站</h2><details class="note info"><summary><p>larainfo</p>
+</summary>
+<ul>
+<li><p>  <a href="https://larainfo.com/blogs/tailwind-css-navbar-ui-example">navbar</a></p>
 </li>
-<li>大團體: 解決問題導向<ul>
-<li>  decision making</li>
-<li>  fact-finding tasks</li>
-</ul>
+<li><p>  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiuz4uH7vH1AhUBr1YBHRhUAz8QFnoECA0QAQ&url=https://larainfo.com/blogs/tailwind-css-simple-sidebar-ui-example&usg=AOvVaw23T1GmIptONCARKJeTFDGb">sidebar</a></p>
 </li>
-<li>  社會怠惰(social loafing): 多人工作量 &lt; 獨自工作量</li>
-</ul>
-<h3 id="多樣性-Diversity"><a href="#多樣性-Diversity" class="headerlink" title="多樣性 Diversity"></a>多樣性 Diversity</h3><ul>
-<li>定義: 群體成員相似/異處<ul>
-<li>  短期: 增加群體衝突</li>
-<li>  長期: 表現越好(開放態度、創意)</li>
-</ul>
+<li><p>  <a href="https://larainfo.com/blogs/tailwind-css-responsive-footer-section-example">footer</a></p>
 </li>
 </ul>
-<h3 id="群體決策-Group-decision-making"><a href="#群體決策-Group-decision-making" class="headerlink" title="群體決策(Group decision making)"></a>群體決策(Group decision making)</h3><ul>
-<li>  優點: 資訊較完整、觀點多樣</li>
-<li>  缺點: 少數服從多數、費時</li>
-<li>群體盲思(Groupthink)<ul>
-<li>  不敢提出不同想法: 傾向朝群體觀點一致</li>
-</ul>
-</li>
-<li>群體偏移(Groupshift)<ul>
-<li>  團體和個體決策的變化/偏移</li>
-</ul>
-</li>
-<li>霍桑效應(Hawthorne Effect)<ul>
-<li>  當觀察者察覺自己==被觀察==，會傾向改變自己的言行</li>
-</ul>
-</li>
-</ul>
+
+</details>
 ]]></content>
       <categories>
-        <category>組織行為</category>
-        <category>筆記</category>
+        <category>業餘專案</category>
+        <category>單字卡</category>
       </categories>
       <tags>
-        <tag>組織行為</tag>
-        <tag>筆記</tag>
+        <tag>業餘專案</tag>
+        <tag>單字卡</tag>
       </tags>
   </entry>
 </search>
