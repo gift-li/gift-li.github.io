@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gift-li.github.io/articles/word-card-site-3/</loc>
+    
+    <lastmod>2022-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gift-li.github.io/articles/word-card-site-2/</loc>
+    
+    <lastmod>2022-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gift-li.github.io/articles/word-card-site/</loc>
+    
+    <lastmod>2022-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gift-li.github.io/articles/power-and-politics/</loc>
     
     <lastmod>2022-02-09</lastmod>
@@ -58,7 +85,7 @@
 
   <url>
     <loc>https://gift-li.github.io/</loc>
-    <lastmod>2022-02-09</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,35 +93,35 @@
   
   <url>
     <loc>https://gift-li.github.io/tags/Trashpost/</loc>
-    <lastmod>2022-02-09</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://gift-li.github.io/tags/OB/</loc>
-    <lastmod>2022-02-09</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://gift-li.github.io/tags/Note/</loc>
-    <lastmod>2022-02-09</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://gift-li.github.io/tags/SideProject/</loc>
-    <lastmod>2022-02-09</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://gift-li.github.io/tags/WordCard/</loc>
-    <lastmod>2022-02-09</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -103,35 +130,35 @@
   
   <url>
     <loc>https://gift-li.github.io/categories/Trashpost/</loc>
-    <lastmod>2022-02-09</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://gift-li.github.io/categories/Note/</loc>
-    <lastmod>2022-02-09</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://gift-li.github.io/categories/SideProject/</loc>
-    <lastmod>2022-02-09</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://gift-li.github.io/categories/Note/OB/</loc>
-    <lastmod>2022-02-09</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://gift-li.github.io/categories/SideProject/WordCard/</loc>
-    <lastmod>2022-02-09</lastmod>
+    <lastmod>2022-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
